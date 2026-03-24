@@ -5,6 +5,7 @@
 ## Getting Started
 
 * [Quick Start](getting-started/quick-start.md)
+* [Submitting Feedback](getting-started/feedback.md)
 * [System Requirements](getting-started/system-requirements.md)
 
 ## Unified Inbox
